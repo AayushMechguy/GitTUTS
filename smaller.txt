@@ -1,1 +1,2 @@
 Hello world ! Wasp?
+Let's amend previous commit.
